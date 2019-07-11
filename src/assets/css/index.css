@@ -1,0 +1,220 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #f9fbfd;
+    color: #12263f;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+#root{
+    overflow: hidden;
+}
+
+.wrapper {
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+}
+
+.sidebar {
+    min-width: 200px;
+    max-width: 220px;
+    background-color: white;
+    left: 0;
+    border-width: 0 1px 0 0;
+    border-color: #e3ebf6;
+    border-style: solid;
+}
+
+.main {
+    width: 100%;
+    min-height: 100vh;
+}
+
+.logo {
+    padding: 10px;
+}
+
+.title {
+    color: #95aac9;
+    font-size: .8rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.navbar-divider {
+    border-color: #e3ebf6;
+    margin-bottom: .75rem !important;
+    margin-top: .75rem !important;
+}
+
+
+.button {
+    font-weight: bold;
+    font-size: .8rem;
+}
+
+.btn-add {
+    margin-top: -2px
+}
+
+
+.nav-item-btn {
+    font-size: .8rem;
+}
+
+.header-body {
+    padding-top: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #e3ebf6;
+}
+
+.header-title {
+    letter-spacing: -.02em;
+    font-size: 1.625rem;
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    border: 1px solid #edf2f9;
+    border-radius: .5rem;
+    background-color: #fff;
+    background-clip: border-box;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 .75rem 1.5rem rgba(18, 38, 63, .03);
+}
+
+.card-header {
+    display: flex;
+    flex-direction: row;
+    min-height: 3.75rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    flex-grow: 1;
+    align-items: center;
+    background-color: white;
+}
+
+.card-body {
+    padding: 1.5rem;
+    flex: 1 1 auto;
+}
+
+.card-header-title {
+    letter-spacing: -0.02em;
+    font-size: 0.9375rem;
+    font-weight: 500;
+    line-height: 1.1;
+}
+
+.header-pretitle {
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: #95aac9;
+}
+
+h6 {
+    font-size: 0.625rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+}
+
+.DayPickerInput input {
+    /* Change for the project Web Promotions */
+    display: block;
+    width: 100%;
+    height: calc(2.25rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    -webkit-transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.DayPicker{
+    position: relative;
+    z-index: 10;
+}
+
+.form-label {
+    letter-spacing: -0.02em;
+    font-size: 0.9375rem;
+    font-weight: 500;
+    line-height: 1.1;
+}
+
+.col-btn {
+    width: 50px;
+}
+
+.col-lang {
+    width: 100px;
+}
+
+.no-padding {
+    padding: 0;
+    margin: 0;
+}
+
+.no-margin-bottom {
+    margin-bottom: 0 !important;
+}
+
+.form-check-input {
+    margin-left: 0.75rem !important;
+    margin-top: 8px !important;
+}
+
+.margin-left-btn {
+    margin-left: 5px;
+   
+}
+
+.hidden {
+    display: none;
+}
+
+#footer {
+    position:inherit;
+    bottom:0;
+    width: 80%;
+    height:20px;
+    text-align: center;
+}
+
+.subtitle{
+    width: 200px;
+}
+
+.error{
+    color: red;
+}
+
+.react-datepicker{
+    min-width: 19.55rem;
+}

@@ -1,0 +1,358 @@
+[ {
+  "active" : true,
+  "analyticsOnClickEvent" : "home_promo_coupon",
+  "caption" : {
+    "en" : "TRY ONE ON US.",
+    "es" : "PRUEBA CON NOSOTROS.",
+    "fr" : "FAITES-EN L'ESSAI À NOS FRAIS.",
+    "pt" : "EXPERIMENTE POR NOSSA CONTA."
+  },
+  "dynamicElementsModel" : [ {
+    "imageUrl" : {
+      "hdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Fcoupon-test1%2FCarousel-Coupon-hdpi.png?alt=media&token=3a68b415-6088-4627-bbdc-97f7c784cb0f",
+      "mdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Fcoupon-test1%2FCarousel-Coupon-mdpi.png?alt=media&token=b6d935a2-c487-45d3-a1d6-3247962099f0",
+      "xhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Fcoupon-test1%2FCarousel-Coupon-xhdpi.png?alt=media&token=8e4fde26-ce41-4ac9-a3fd-b892851bb850",
+      "xxhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Fcoupon-test1%2FCarousel-Coupon-xxhdpi.png?alt=media&token=f2f28058-e03c-4c27-8a2a-88bf695e2974",
+      "xxxhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Fcoupon-test1%2FCarousel-Coupon-xxxhdpi.png?alt=media&token=b82e3cd1-967a-419c-8b83-3c02550a9a51"
+    },
+    "type" : "HeaderModel"
+  }, {
+    "text" : {
+      "en" : "Try one on us. Buy one Color To Go® paint sample, get one free!*",
+      "es" : "PRUEBA CON NOSOTROS. COMPRA 1 MUESTRA COLOR TO GO&reg; ¡OBTIENE OTRA GRATIS!",
+      "fr" : "FAITES-EN L'ESSAI À NOS FRAIS. ACHETEZ UN ÉCHANTILLON DE PEINTURE COLOR TO GO&reg; OBTENEZ-EN UN GRATUITEMENT!",
+      "pt" : "EXPERIMENTE POR NOSSA CONTA. COMPRE UMA AMOSTRA COLOR TO GO&reg; GANHE OUTRA GRÁTIS!"
+    },
+    "textStyle" : "title2",
+    "type" : "TextModel"
+  }, {
+    "text" : {
+      "en" : "\nOffer ends December 29, 2018\n\nCoupon is valid for one-time use in stores only.\n\n*Redeem offer in stores only.",
+      "es" : "\nes - Offer ends December 29, 2018\n\nCoupon is valid for one-time use in stores only.\n\n*Redeem offer in stores only.",
+      "fr" : "\nfr - Offer ends December 29, 2018\n\nCoupon is valid for one-time use in stores only.\n\n*Redeem offer in stores only.",
+      "pt" : "\npt - Offer ends December 29, 2018\n\nCoupon is valid for one-time use in stores only.\n\n*Redeem offer in stores only."
+    },
+    "textStyle" : "body",
+    "type" : "TextModel"
+  }, {
+    "affiliateId" : "101707912",
+    "barcode" : "gs://sw-colorsnap-debug.appspot.com/promotions/coty2019/coty_header@3x.png",
+    "merchantId" : "20720706",
+    "offerEndDate" : "06/30/2019",
+    "offerStartDate" : "11/01/2018",
+    "programId" : "102427104",
+    "type" : "BarcodeModel"
+  }, {
+    "analyticsOnClickEvent" : "offers_find_store",
+    "ctaUrl" : {
+      "en" : "colorsnap://findastore",
+      "es" : "colorsnap://findastore",
+      "fr" : "colorsnap://findastore",
+      "pt" : "colorsnap://findastore"
+    },
+    "tag" : 0,
+    "title" : {
+      "en" : "Find a Store",
+      "es" : "es - Find a Store",
+      "fr" : "fr - Find a Store",
+      "pt" : "pt - Find a Store"
+    },
+    "type" : "ButtonModel"
+  }, {
+    "text" : {
+      "en" : "Valid on retail sales of retail products only. May not be combined with any other offer or coupon. Limit one free Color To Go® paint sample per person (approximate retail value: $8.49) of equal or lesser value when Color To Go® is purchased at list price. Limited to stock on hand. Must surrender coupon at time of redemption. Cash value: 1/100 of 1¢.  Not valid on previous purchases.  Valid at US Sherwin-Williams retail paint stores only.  We reserve the right to accept, refuse, or limit the use of any coupon.",
+      "es" : "es - COUPON_DETAIL_DISCLAIMER",
+      "fr" : "fr - COUPON_DETAIL_DISCLAIMER",
+      "pt" : "pt - COUPON_DETAIL_DISCLAIMER"
+    },
+    "textStyle" : "footnote",
+    "type" : "TextModel"
+  } ],
+  "endDateAndTime" : "",
+  "imageUrl" : {
+    "hdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Fcoupon-test1%2FCarousel-Coupon-hdpi.png?alt=media&token=3a68b415-6088-4627-bbdc-97f7c784cb0f",
+    "mdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Fcoupon-test1%2FCarousel-Coupon-mdpi.png?alt=media&token=b6d935a2-c487-45d3-a1d6-3247962099f0",
+    "xhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Fcoupon-test1%2FCarousel-Coupon-xhdpi.png?alt=media&token=8e4fde26-ce41-4ac9-a3fd-b892851bb850",
+    "xxhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Fcoupon-test1%2FCarousel-Coupon-xxhdpi.png?alt=media&token=f2f28058-e03c-4c27-8a2a-88bf695e2974",
+    "xxxhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Fcoupon-test1%2FCarousel-Coupon-xxxhdpi.png?alt=media&token=b82e3cd1-967a-419c-8b83-3c02550a9a51"
+  },
+  "sliderType" : "coupon",
+  "startDateAndTime" : "",
+  "title" : {
+    "en" : "Buy One Color To Go® paint sample, get one free!*",
+    "es" : "COMPRA 1 MUESTRA COLOR TO GO&reg; ¡OBTIENE OTRA GRATIS!",
+    "fr" : "ACHETEZ UN ÉCHANTILLON DE PEINTURE COLOR TO GO&reg; OBTENEZ-EN UN GRATUITEMENT!",
+    "pt" : "COMPRE UMA AMOSTRA COLOR TO GO&reg; GANHE OUTRA GRÁTIS!"
+  }
+}, {
+  "active" : true,
+  "analyticsOnClickEvent" : "home_promo_coty",
+  "caption" : {
+    "en" : "2019 COLOR OF THE YEAR",
+    "es" : "COLOR DEL AÑO 2019",
+    "fr" : "COULEUR DE L'ANNÉE 2019",
+    "pt" : "A COR DO ANO 2019"
+  },
+  "color" : {
+    "id" : "",
+    "locatorNumber" : "290 - C6",
+    "number" : "7701"
+  },
+  "dynamicElementsModel" : [ {
+    "imageUrl" : {
+      "hdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Fcoty-2019%2Fcoty-detail-1-hdpi.png?alt=media&token=70d1e3e0-a4ac-4994-8952-b0e3083fdd53",
+      "mdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Fcoty-2019%2Fcoty-detail-1-mdpi.png?alt=media&token=8e67d070-d436-4c59-a6be-61f3aaf915c7",
+      "xhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Fcoty-2019%2Fcoty-detail-1-hxdpi.png?alt=media&token=82dca06c-9e63-4ab8-8e3a-4b0c3af91b1d",
+      "xxhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Fcoty-2019%2Fcoty-detail-1-xxhdpi.png?alt=media&token=eb3615b1-567e-478e-88bb-9fc73d1910a0",
+      "xxxhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Fcoty-2019%2Fcoty-detail-1-xxxhdpi.png?alt=media&token=e514e46d-e03c-414c-9aa4-b5e5d7374cd2"
+    },
+    "type" : "HeaderModel"
+  }, {
+    "text" : {
+      "en" : "\n2019 COLOR OF THE YEAR",
+      "es" : "\nCOLOR DEL AÑO 2019",
+      "fr" : "\nCOULEUR DE L'ANNÉE 2019",
+      "pt" : "\nA COR DO ANO 2019"
+    },
+    "textStyle" : "caption1",
+    "type" : "TextModel"
+  }, {
+    "text" : {
+      "en" : "Cavern Clay",
+      "es" : "Cavern Clay",
+      "fr" : "Argile Caverneuse",
+      "pt" : "Caverna"
+    },
+    "textStyle" : "title2",
+    "type" : "TextModel"
+  }, {
+    "text" : {
+      "en" : "SW 7701 (290 - C6)",
+      "es" : "SW 7701 (290 - C6)",
+      "fr" : "SW 7701 (290 - C6)",
+      "pt" : "SW 7701 (290 - C6)"
+    },
+    "textStyle" : "body",
+    "type" : "TextModel"
+  }, {
+    "text" : {
+      "en" : "\nBurnish and earthen, bohemian and free, independent and wild—embrace natural wonders with the 2019 Color of the Year.\n\nYou don’t need a desert home to create an oasis of your own. Unleash your western spirit with the 2019 Color of the Year, Cavern Clay SW 7701.",
+      "es" : "\nArreglado y terrenal, bohemio y libre, independiente y salvaje --- abraza las maravillas naturales del Color del Año 2019.\n\n  No necesitas una casa desértica para crear tu propio oasis. Libera tu espíritu del lejano oeste con el Color del Año 2019, Cavern Clay SW 7701.",
+      "fr" : "\nDorée et terreuse, bohémienne et libre, indépendante et sauvage --- accueillez les merveilles de la nature avec la couleur de l'année 2019.\n\nVous n'avez pas à habiter dans le désert pour créer votre propre oasis. Libérez votre esprit occidental avec la couleur de l'année 2019, Argile caverneuse SW 7701.",
+      "pt" : "\nRefinado e terroso, boêmio e livre, independente e selvagem - abrace as maravilhas naturais com a cor do ano 2019.\n\nVocê não precisa de uma casa no deserto para criar o seu próprio oásis. Liberte o seu espírito aventureiro com a Cor do Ano 2019, Caverna SW 7701."
+    },
+    "textStyle" : "body",
+    "type" : "TextModel"
+  }, {
+    "analyticsOnClickEvent" : "coty_try_1",
+    "ctaUrl" : {
+      "en" : "colorsnap://introarvideo",
+      "es" : "colorsnap://introarvideo",
+      "fr" : "colorsnap://introarvideo",
+      "pt" : "colorsnap://introarvideo"
+    },
+    "tag" : 0,
+    "title" : {
+      "en" : "Try On Your Walls",
+      "es" : "Pruébalo En Tus Paredes",
+      "fr" : "Essayez-la Sur Vos Murs",
+      "pt" : "Experimente Em Suas Paredes"
+    },
+    "type" : "ButtonModel"
+  }, {
+    "type" : "VideoModel",
+    "videoId" : {
+      "en" : "CW2mlCmMTK0",
+      "es" : "CW2mlCmMTK0",
+      "fr" : "CW2mlCmMTK0",
+      "pt" : "CW2mlCmMTK0"
+    },
+    "videoUrl" : {
+      "en" : "<iframe width=\"100%\" height=\"190\" src=\"https://www.youtube.com/embed/CW2mlCmMTK0?rel=0&controls=0&showinfo=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+      "es" : "<iframe width=\"100%\" height=\"190\" src=\"https://www.youtube.com/embed/CW2mlCmMTK0?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+      "fr" : "<iframe width=\"100%\" height=\"190\" src=\"https://www.youtube.com/embed/CW2mlCmMTK0?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+      "pt" : "<iframe width=\"100%\" height=\"190\" src=\"https://www.youtube.com/embed/CW2mlCmMTK0?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"
+    }
+  }, {
+    "aspectRatio" : "16:9",
+    "imageUrl" : {
+      "hdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions%2Fcoty2019%2FCOTY_body1_hdpi.png?alt=media&token=4b537bb1-2ac8-4a49-b216-3dc4e196c479",
+      "mdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions%2Fcoty2019%2FCOTY_body1_mdpi.png?alt=media&token=3e076d81-99dd-403f-89d3-2a45d295e8b1",
+      "xhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions%2Fcoty2019%2FCOTY_body1_xhdpi.png?alt=media&token=f4600aec-4f6a-4e56-8fa2-d14ed913b2c7",
+      "xxhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions%2Fcoty2019%2FCOTY_body1_xxhdpi.png?alt=media&token=12468bbc-e4df-40ad-8d7a-e30e8c07d7c6",
+      "xxxhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions%2Fcoty2019%2FCOTY_body1_xxxhdpi.png?alt=media&token=9d6f61e9-374f-4904-90e2-c1196e8c1d36"
+    },
+    "type" : "ImageModel"
+  }, {
+    "aspectRatio" : "16:9",
+    "imageUrl" : {
+      "hdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions%2Fcoty2019%2FCOTY_body3_hdpi.png?alt=media&token=8c1129d4-0944-4391-ab26-e59b02d6ac21",
+      "mdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions%2Fcoty2019%2FCOTY_body3_mdpi.png?alt=media&token=4b5c5aa5-de5d-4a11-b1d0-9585bfb1155c",
+      "xhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions%2Fcoty2019%2FCOTY_body3_xhdpi.png?alt=media&token=de3e23e0-cd54-4b97-bdfd-0b7169577069",
+      "xxhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions%2Fcoty2019%2FCOTY_body3_xxhdpi.png?alt=media&token=c0f5098e-8a54-49ac-9ac8-37761609152d",
+      "xxxhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions%2Fcoty2019%2FCOTY_body3_xxxhdpi.png?alt=media&token=9666d16b-73d4-42ee-89e0-afeea9cf5eb7"
+    },
+    "type" : "ImageModel"
+  }, {
+    "analyticsOnClickEvent" : "coty_try_2",
+    "ctaUrl" : {
+      "en" : "colorsnap://introarvideo",
+      "es" : "colorsnap://introarvideo",
+      "fr" : "colorsnap://introarvideo",
+      "pt" : "colorsnap://introarvideo"
+    },
+    "tag" : 1,
+    "title" : {
+      "en" : "Try On Your Walls",
+      "es" : "Pruébalo En Tus Paredes",
+      "fr" : "Essayez-la Sur Vos Murs",
+      "pt" : "Experimente Em Suas Paredes"
+    },
+    "type" : "ButtonModel"
+  } ],
+  "endDateAndTime" : "",
+  "imageUrl" : {
+    "hdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Fcoty-2019%2FCarousel-COTY-hdpi.png?alt=media&token=52305119-7d2e-4f9c-8cb9-5a5ec36d2fa6",
+    "mdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Fcoty-2019%2FCarousel-COTY-mdpi.png?alt=media&token=58e4f573-0920-4d85-8c6e-aad8144e5e7b",
+    "xhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Fcoty-2019%2FCarousel-COTY-xhdpi.png?alt=media&token=9e9ba85f-2757-4bb7-aed7-c3bb37bb8035",
+    "xxhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Fcoty-2019%2FCarousel-COTY-xxhdpi.png?alt=media&token=8cb84c10-7982-4ea7-8c68-23137dbc53b6",
+    "xxxhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Fcoty-2019%2FCarousel-COTY-xxxhdpi.png?alt=media&token=e9555d44-8453-4946-a6c5-e76db43a1cf3"
+  },
+  "sliderType" : "coty",
+  "startDateAndTime" : "",
+  "title" : {
+    "en" : "Cavern Clay",
+    "es" : "Cavern Clay",
+    "fr" : "ARGILE CAVERNEUSE",
+    "pt" : "CAVERNA"
+  },
+  "videoUrl" : {
+    "en" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-debug.appspot.com/o/promotions%2Fslider%2Fcolor%2FCSV-COTY-Cinemagraph.mp4?alt=media&token=f1d74dcd-4345-4825-a87c-e0fabb6cf497",
+    "es" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-debug.appspot.com/o/promotions%2Fslider%2Fcolor%2FCSV-COTY-Cinemagraph.mp4?alt=media&token=f1d74dcd-4345-4825-a87c-e0fabb6cf497",
+    "fr" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-debug.appspot.com/o/promotions%2Fslider%2Fcolor%2FCSV-COTY-Cinemagraph.mp4?alt=media&token=f1d74dcd-4345-4825-a87c-e0fabb6cf497",
+    "pt" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-debug.appspot.com/o/promotions%2Fslider%2Fcolor%2FCSV-COTY-Cinemagraph.mp4?alt=media&token=f1d74dcd-4345-4825-a87c-e0fabb6cf497"
+  }
+}, {
+  "active" : true,
+  "analyticsOnClickEvent" : "home_promo_learnmore",
+  "caption" : {
+    "en" : "Paint Features",
+    "es" : "Caption 3 es",
+    "fr" : "Caption 3 fr",
+    "pt" : "Caption 3 pt"
+  },
+  "dynamicElementsModel" : [ {
+    "imageUrl" : {
+      "hdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Finstant-paint%2FCarouselInstantPaint-hdpi.png?alt=media&token=41b19648-7466-43ff-be56-84c7f48035f0",
+      "mdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Finstant-paint%2FCarouselInstantPaint-mdpi.png?alt=media&token=b6d18fb9-8575-4adc-9ee9-ae023aad8669",
+      "xhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Finstant-paint%2FCarouselInstantPaint-xhdpi.png?alt=media&token=994405b1-0a71-4f50-aff8-43b63078f618",
+      "xxhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Finstant-paint%2FCarouselInstantPaint-xxhdpi.png?alt=media&token=eeb3f1a5-98f4-49d3-8c89-7600df6468b2",
+      "xxxhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Finstant-paint%2FCarouselInstantPaint-xxxhdpi.png?alt=media&token=f0449a50-faa7-4065-b3cd-17d67e50d23d"
+    },
+    "type" : "HeaderModel"
+  }, {
+    "text" : {
+      "en" : "Try our latest ways to instantly paint your walls.",
+      "es" : "es - Try our latest ways to instantly paint your walls.",
+      "fr" : "fr - Try our latest ways to instantly paint your walls.",
+      "pt" : "pt - Try our latest ways to instantly paint your walls."
+    },
+    "textStyle" : "title2",
+    "type" : "TextModel"
+  }, {
+    "text" : {
+      "en" : "See any of our 1,500 colors on your walls in a snap with our Paint features.\n\n",
+      "es" : "es - See any of our 1,500 colors on your walls in a snap with Paint a Scene.\n\n",
+      "fr" : "fr - See any of our 1,500 colors on your walls in a snap with Paint a Scene.\n\n",
+      "pt" : "pt - See any of our 1,500 colors on your walls in a snap with Paint a Scene.\n\n"
+    },
+    "textStyle" : "body",
+    "type" : "TextModel"
+  }, {
+    "analyticsOnClickEvent" : "promo_try_1",
+    "ctaUrl" : {
+      "en" : "",
+      "es" : "",
+      "fr" : "",
+      "pt" : ""
+    },
+    "tag" : 0,
+    "title" : {
+      "en" : "Start Painting",
+      "es" : "es - Start Painting",
+      "fr" : "fr - Start Painting",
+      "pt" : "pt - Start Painting"
+    },
+    "type" : "ButtonModel"
+  }, {
+    "text" : {
+      "en" : "Instant Paint\n",
+      "es" : "es - Instant Paint\n",
+      "fr" : "fr - Instant Paint\n",
+      "pt" : "pt - Instant Paint\n"
+    },
+    "textStyle" : "headline",
+    "type" : "TextModel"
+  }, {
+    "text" : {
+      "en" : "Use augmented reality (AR) to instantly apply paint color to walls.\n\nThis feature is best used in a well-lit room with space to move around.\n\nTo use you must have an AR-compatible device and have ARCore installed.\n",
+      "es" : "es - Use augmented reality (AR) to instantly apply paint color to walls.\n\nThis feature is best used in a well-lit room with space to move around.\n\nTo use you must have an AR-compatible device and have ARCore installed.\n",
+      "fr" : "fr - Use augmented reality (AR) to instantly apply paint color to walls.\n\nThis feature is best used in a well-lit room with space to move around.\n\nTo use you must have an AR-compatible device and have ARCore installed.\n",
+      "pt" : "pt - Use augmented reality (AR) to instantly apply paint color to walls.\n\nThis feature is best used in a well-lit room with space to move around.\n\nTo use you must have an AR-compatible device and have ARCore installed.\n"
+    },
+    "textStyle" : "body",
+    "type" : "TextModel"
+  }, {
+    "text" : {
+      "en" : "Take a Photo\n",
+      "es" : "es - Take a Photo\n",
+      "fr" : "fr - Take a Photo\n",
+      "pt" : "pt - Take a Photo\n"
+    },
+    "textStyle" : "headline",
+    "type" : "TextModel"
+  }, {
+    "text" : {
+      "en" : "For best results, be sure to take a photo in a well-lit space.\n",
+      "es" : "es - For best results, be sure to take a photo in a well-lit space.\n",
+      "fr" : "fr - For best results, be sure to take a photo in a well-lit space.\n",
+      "pt" : "pt - For best results, be sure to take a photo in a well-lit space.\n"
+    },
+    "textStyle" : "body",
+    "type" : "TextModel"
+  }, {
+    "text" : {
+      "en" : "Choose a Photo\n",
+      "es" : "es - Choose a Photo\n",
+      "fr" : "fr - Choose a Photo\n",
+      "pt" : "pt - Choose a Photo\n"
+    },
+    "textStyle" : "headline",
+    "type" : "TextModel"
+  }, {
+    "text" : {
+      "en" : "Use a well-lit photo from your camera roll to instantly see paint colors in your space.\n",
+      "es" : "es - Use a well-lit photo from your camera roll to instantly see paint colors in your space.\n",
+      "fr" : "fr - Use a well-lit photo from your camera roll to instantly see paint colors in your space.\n",
+      "pt" : "pt - Use a well-lit photo from your camera roll to instantly see paint colors in your space.\n"
+    },
+    "textStyle" : "body",
+    "type" : "TextModel"
+  } ],
+  "endDateAndTime" : "",
+  "imageUrl" : {
+    "hdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Finstant-paint%2FCarouselInstantPaint-hdpi.png?alt=media&token=41b19648-7466-43ff-be56-84c7f48035f0",
+    "mdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Finstant-paint%2FCarouselInstantPaint-mdpi.png?alt=media&token=b6d18fb9-8575-4adc-9ee9-ae023aad8669",
+    "xhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Finstant-paint%2FCarouselInstantPaint-xhdpi.png?alt=media&token=994405b1-0a71-4f50-aff8-43b63078f618",
+    "xxhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Finstant-paint%2FCarouselInstantPaint-xxhdpi.png?alt=media&token=eeb3f1a5-98f4-49d3-8c89-7600df6468b2",
+    "xxxhdpi" : "https://firebasestorage.googleapis.com/v0/b/sw-colorsnap-android-debug.appspot.com/o/promotions-v2%2Fslider%2Finstant-paint%2FCarouselInstantPaint-xxxhdpi.png?alt=media&token=f0449a50-faa7-4065-b3cd-17d67e50d23d"
+  },
+  "sliderType" : "promo",
+  "startDateAndTime" : "",
+  "title" : {
+    "en" : "Try our latest ways to instantly paint your walls.",
+    "es" : "es - Try our latest ways to instantly paint your walls.",
+    "fr" : "fr - Try our latest ways to instantly paint your walls.",
+    "pt" : "pt - Try our latest ways to instantly paint your walls."
+  }
+} ]
